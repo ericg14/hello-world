@@ -5,4 +5,4 @@ Hopefully it will get merged. If you are reading this on master branch then cong
 to me.
 
 
-JAR - Just Another Repository
+This is JAR - Just Another Repository
